@@ -5,8 +5,8 @@ Plugin URI: https://wordpress.org/plugins/health-check/
 Description: Checks the health of your WordPress install
 Version: 0.1.0
 Author: Mohammad Abdullah-Al-Nazad
-Author URI: http://health-check-team.example.com
-Text Domain: ghgfjgh
+Author URI: http://www.devnazad.com
+Text Domain: http://www.devnazad.com
 Domain Path: /languages
 */
 
